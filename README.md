@@ -15,4 +15,4 @@ cd my_robot/src
 
 catkin_create_pkg xxx xxx xxx xxx xxx
 
-cd my_opencv/src　ここでmy_opencvファイルが作成されない。自分で作ったか、
+cd my_opencv/src　ここでmy_opencvファイルが作成されない。自分で作ったかcatkin_create_pkgを間違えたか
