@@ -1,0 +1,8 @@
+prefix=/home/shimizulab/my_robot/install
+
+Name: my_opencv
+Description: Description of my_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shimizulab/my_robot/install/lib 
+Requires: 
