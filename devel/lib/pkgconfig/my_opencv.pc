@@ -1,8 +1,0 @@
-prefix=/home/shimizulab/my_robot/devel
-
-Name: my_opencv
-Description: Description of my_opencv
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/shimizulab/my_robot/devel/lib 
-Requires: 

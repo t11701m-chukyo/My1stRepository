@@ -1,8 +1,0 @@
-prefix=/home/shimizulab/my_robot/devel
-
-Name: usb_cam
-Description: Description of usb_cam
-Version: 0.3.4
-Cflags: -I/home/shimizulab/my_robot/src/usb_cam/include
-Libs: -L/home/shimizulab/my_robot/devel/lib -lusb_cam
-Requires: 

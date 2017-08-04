@@ -1,2 +1,0 @@
-my_opencv:usb_cam
--DCATKIN_DEVEL_PREFIX=/home/shimizulab/my_robot/devel -DCMAKE_INSTALL_PREFIX=/home/shimizulab/my_robot/install -G Unix Makefiles
